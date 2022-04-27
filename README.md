@@ -8,7 +8,6 @@
 - 🎲Amante pelo Conhecimento, Disciplinado para a Vida🎲
 - 📚Cursando Desenvolvimento de Sistemas (3/3)📚
 - 💻Futuro Programador Full-Stack💻
-- 🎵Jogos, Músicas e Paz🎵
 
 <br>
 <div align="center">
