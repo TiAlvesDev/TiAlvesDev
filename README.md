@@ -4,10 +4,9 @@
 <h3>Espero que encontre o que procura aqui, aproveite!</h3>
 <br>
 
-
-- 🎲Amante pelo Conhecimento, Disciplinado para a Vida🎲
-- 📚Cursando Desenvolvimento de Sistemas (3/3)📚
-- 💻Futuro Programador Full-Stack💻
+- 💻Programador Front-End💻
+- 📚Técnico em Desenvolvimento de Sistemas📚
+- 💻Aberto para propostas de emprego💻
 
 <br>
 <div align="center">
