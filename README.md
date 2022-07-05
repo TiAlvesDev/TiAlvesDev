@@ -24,7 +24,7 @@
 <br>
   
 ## 📱Contato:
-<a href="">
+<a href="https://www.linkedin.com/in/Ti-Alves/">
   <img align="center" alt="comp_linkedin" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
   
