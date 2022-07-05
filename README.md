@@ -1,4 +1,4 @@
-### <div align="center"> Olá! Meu nome é Tiago Alves <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> </div>
+## <div align="center"> Olá! Meu nome é Tiago Alves <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> </div>
 
 <br>
 
@@ -16,8 +16,6 @@
   <img align="center" alt="comp_css" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="comp_js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="comp_react" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="comp_php" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="comp_mysql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="comp_canva" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="comp_ps" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="comp_trello" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
@@ -29,5 +27,7 @@
 <a href="">
   <img align="center" alt="comp_linkedin" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
+  
+  <br>
   
  ![Snake animation](https://github.com/Ti-Alves/Ti-Alves/blob/output/github-contribution-grid-snake.svg)
