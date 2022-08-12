@@ -1,5 +1,5 @@
 <h1 align="center">Oi! Meu nome é Tiago Alves<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></h1>
-<h4 align="center">Dev Front-End</h4>
+<h3 align="center">Dev Front-End</h3>
 
 <br>
 
