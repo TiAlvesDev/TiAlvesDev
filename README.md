@@ -4,7 +4,7 @@
 <br>
 
 ## 💫 Sobre mim:
-🕶️ Tenho 16 anos
+🕶️ Tenho 17 anos
 <br>
 📑 Sou técnico em Desenvolvimento de Sistemas
 <br>
