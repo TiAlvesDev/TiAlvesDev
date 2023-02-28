@@ -65,10 +65,10 @@
 <br>
 
 ## 📊 Dashboard pessoal:
-![](https://github-readme-stats.vercel.app/api?username=Ti-Alves&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ti-Alves&theme=tokyonight&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ti-Alves&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=TiAlvesDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TiAlvesDev&theme=tokyonight&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TiAlvesDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
   
-![Snake animation](https://github.com/Ti-Alves/Ti-Alves/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TiAlvesDev/TiAlvesDev/blob/output/github-contribution-grid-snake.svg)
