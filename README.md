@@ -1,6 +1,4 @@
-<img src="./src/noInternetDinoDark.jpeg">
-
-<br>
+<img src="./src/notARobot.jpeg">
 
 <h1 align="center">
   Oi, povo! Meu nome é Tiago Alves
@@ -27,7 +25,7 @@
 <a href="https://www.linkedin.com/in/ti-alves/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 </a>
-<a href="https://www.linkedin.com/in/ti-alves/" target="_blank">
+<a href="mailto:tchaguwu@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
