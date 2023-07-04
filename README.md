@@ -9,11 +9,13 @@
 
 <h3 align="center">Desenvolvedor de Sistemas</h3>
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap">
+<div align="center">
 
-  <img src="./src/kirbyBench.png" width="350"/>
+  <img align="left" src="./src/kirbyBench.png" width="350"/>
 
-  <div>
+  <div align="left">
+
+  <br>
 
   <h2> Sobre mim: </h2> 
 
@@ -29,29 +31,26 @@
 
 </div>
 
-<br>
+<br> <br> <br> <br>
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap">
+<div align="center">
 
-  <img src="./src/kirbyPC.png" width="400" height="400"/>
+  <img align="left" src="./src/kirbyPC.png" width="400" height="400" />
 
-  <div>
+  <div align="left">
     <h2> 💻 Habilidades: </h2> 
-    <h2> 🎖️ Tenho experiência com </h2>
+    <h3> 🎖️ Tenho experiência com </h3>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40"/> -->
     </div>
-    <h2> 📚 Ferramentas adicionais </h2>
+    <h3> 📚 Ferramentas adicionais </h3>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/>
@@ -62,9 +61,9 @@
 
 </div>
 
-<br> 
+<br> <br> <br>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; flex-wrap: wrap; gap: 5px;">
+<div>
   <img  src="./src/kirbyGraph.png" width="250"/>
 
   <div align="center">
@@ -75,14 +74,13 @@
 
 </div>
 
-<br>
+<br> <br> <br> 
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; flex-wrap: wrap;">
 
-  <img src="./src/kirbyMeet.png" width="200" height="175"/>
-
+<div align="center">
+  <h2> 🌐 Contato: </h2>
   <div align="center">
-    <h2> 🌐 Contato: </h2>
+    <img align="center" src="./src/kirbyMeet.png" width="200" height="175"/>
     <a href="https://www.linkedin.com/in/ti-alves/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
@@ -90,7 +88,6 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </div>
-
 </div>
 
 <br> <br>
