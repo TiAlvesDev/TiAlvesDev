@@ -64,7 +64,7 @@
 <br> <br> <br>
 
 <div>
-  <img  src="./src/kirbyGraph.png" width="250"/>
+  <img align="center" src="./src/kirbyGraph.png" width="250"/>
 
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tialvesdev&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
