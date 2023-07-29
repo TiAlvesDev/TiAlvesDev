@@ -15,7 +15,7 @@
 
 ☕ Alto consumidor de café
 
-<br> <br> <br> <br>
+<br>
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
 </div>
 
-<br> <br> <br>
+<br>
 
 <div>
   <img align="center" src="./src/kirbyGraph.png" width="250"/>
@@ -58,8 +58,7 @@
 
 </div>
 
-<br> <br> <br> 
-
+<br>
 
 <div align="center">
   <h1 align="center"> Obrigado por passar por aqui! </h1>
@@ -73,5 +72,4 @@
   </div>
 </div>
 
-<br> <br>
-
+<br>
