@@ -1,7 +1,3 @@
-<img src="./src/sptechBanner.png">
-
-<br>
-
 <h2 align="center">
   Oi, povo! Meu nome é Tiago Alves
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
@@ -9,33 +5,21 @@
 
 <h3 align="center">Desenvolvedor de Sistemas</h3>
 
-<div align="center">
+<h2> Sobre mim: </h2> 
 
-  <img align="left" src="./src/kirbyBench.png" width="350"/>
+🧓 17 anos
 
-  <div align="left">
+📚 Estudante de ADS e técnico de DS
 
-  <br>
+🗣 Inglês fluente
 
-  <h2> Sobre mim: </h2> 
-
-  🧓 17 anos
-
-  📚 Estudante de ADS e técnico de DS
-
-  🗣 Inglês fluente
-
-  ☕ Alto consumidor de café
-
-  </div>
-
-</div>
+☕ Alto consumidor de café
 
 <br> <br> <br> <br>
 
 <div align="center">
 
-  <img align="left" src="./src/kirbyPC.png" width="400" height="400" />
+  <img align="left" src="./src/kirbyPC.png" height="400" />
 
   <div align="left">
     <h2> 💻 Habilidades: </h2> 
@@ -78,9 +62,8 @@
 
 
 <div align="center">
-  <h2> 🌐 Contato: </h2>
+  <h1 align="center"> Obrigado por passar por aqui! </h1>
   <div align="center">
-    <img align="center" src="./src/kirbyMeet.png" width="200" height="175"/>
     <a href="https://www.linkedin.com/in/ti-alves/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
@@ -92,4 +75,3 @@
 
 <br> <br>
 
-<!-- <h1 align="center"> Obrigado por passar por aqui! </h1> -->
