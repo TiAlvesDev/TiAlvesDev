@@ -7,7 +7,7 @@
 
 <h2> Sobre mim: </h2> 
 
-🧓 17 anos
+🧓 18 anos
 
 📚 Estudante de ADS e técnico de DS
 
